@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/imdex-test/","tags":["gardenEntry"],"created":"2025-05-08T07:04:01.615-04:00"}
+{"dg-publish":true,"permalink":"/imdex-test/","tags":["gardenEntry"],"noteIcon":"2","created":"2025-05-08T07:04:01.615-04:00"}
 ---
 
 

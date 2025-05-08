@@ -20,18 +20,16 @@ And this is just a happy lil guy. Hopefully he loads!
 
 
 
-# .
-
+# ~
 #### Related Articles
-Also mentioned in...
+*Also mentioned in...*
 
 { .block-language-dataview}
 
-
----
-#### Research 
+#### External Information 
+*Links to articles, inspirations, etc.* 
 * (None)
-# .
+# ~
 
 
 

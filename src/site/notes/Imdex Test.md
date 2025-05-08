@@ -11,7 +11,7 @@ I am curious to see if this works. Hello!
 ![rappy dance party](/img/user/Files/rappydance.gif)
 
 Rapscallien wishes to do the dance of life with you! Will you join him?
-(Not sure why this gif isn't giffing though)
+...(Not sure why this gif isn't working over on Vercel though..?)
 
 
 

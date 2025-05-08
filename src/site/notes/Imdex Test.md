@@ -4,29 +4,35 @@
 
 
 
+Hi! This is a placeholder right now, and will eventually be a rather snazzy digital garden style collection for my most current project.
 
-I am curious to see if this works. Hello!
 
 
 ![rappy dance party](/img/user/Files/rappydance.gif)
 
-Rapscallien wishes to do the dance of life with you! Will you join him?
-...(Not sure why this gif isn't working over on Vercel though..?)
+^ this is supposed to be an animated gif, and I'm currently trying to troubleshoot that. :/ 
+
+![rapscalliensmile](/img/user/Files/rapscalliensmile.png)
+And this is just a happy lil guy.
 
 
 
----
-# Related Articles
+
+# .
+
+#### Related Articles
 Also mentioned in...
 
 { .block-language-dataview}
 
 
 ---
-# Research 
-* 
+#### Research 
+* (None)
+# .
 
----
+
+
 
 
 

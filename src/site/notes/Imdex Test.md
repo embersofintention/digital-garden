@@ -15,6 +15,8 @@ Hi! This is a placeholder right now, and will eventually be a rather snazzy digi
 ![rapscalliensmile](/img/user/Files/rapscalliensmile.png)
 And this is just a happy lil guy. Hopefully he loads!
 
+![stupidesttimetobealive](/img/user/Files/stupidesttimetobealive.gif)
+
 
 
 

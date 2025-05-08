@@ -6,7 +6,7 @@
 
 Hi! This is a placeholder right now, and will eventually be a rather snazzy digital garden style collection for my most current project.
 
-[Image gallery v3 test](Image%20gallery%20v3%20test.md)
+[[Image gallery v3 test\|Image gallery v3 test]]
 
 
 ![rappy dance party](/img/user/Files/rappydance.gif)

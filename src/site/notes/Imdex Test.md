@@ -13,7 +13,7 @@ Hi! This is a placeholder right now, and will eventually be a rather snazzy digi
 ^ this is supposed to be an animated gif, and I'm currently trying to troubleshoot that. :/ 
 
 ![rapscalliensmile](/img/user/Files/rapscalliensmile.png)
-And this is just a happy lil guy.
+And this is just a happy lil guy. Hopefully he loads!
 
 
 

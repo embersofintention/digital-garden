@@ -15,6 +15,7 @@
 ---
 # Related Articles
 Also mentioned in...
+- [[Image gallery v3 test\|Image gallery v3 test]]
 
 { .block-language-dataview}
 

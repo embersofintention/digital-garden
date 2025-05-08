@@ -1,0 +1,15 @@
+---
+{"dg-publish":true,"permalink":"/art/rapscallien-smile-sticker/","tags":["gallery","character/Rapscallien","art/Sticker"],"noteIcon":"1","created":"2025-05-08T12:02:24.406-04:00"}
+---
+
+
+![Files/rapscalliensmile.png](/img/user/Files/rapscalliensmile.png)
+
+
+
+
+
+
+.
+
+

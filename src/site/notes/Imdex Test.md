@@ -7,10 +7,10 @@
 
 I am curious to see if this works. Hello!
 
-![rappydance](/img/user/Files/rappydance.gif)
 
+![rappy dance party](/img/user/Files/rappydance.gif)
 
-Rapscallien wishes to do the dance of life with you!
+Rapscallien wishes to do the dance of life with you! Will you join him?
 (Not sure why this gif isn't giffing though)
 
 

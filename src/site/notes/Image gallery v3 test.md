@@ -2,6 +2,18 @@
 {"dg-publish":true,"permalink":"/image-gallery-v3-test/","noteIcon":"1","created":"2025-05-08T10:03:06.897-04:00"}
 ---
 
+
+
+
+# changing it to work with markdown links
+
+<div><span>-</span><a href="https://digital-garden-lemon-nine.vercel.app/art/ralien-scream-doodle-meme/" target="_blank" rel="noopener"><div style="display: inline-block; margin: 10px; text-align: center;"><div><img src="/Files/ralienaaaaa.png" alt="ralienaaaaa" style="max-width: 150px; display: block; margin: 0px auto;"></div><div style="text-align: center;">Ralien scream doodle meme</div></div></a><a href="https://digital-garden-lemon-nine.vercel.app/art/rapscallien-smile-sticker/" target="_blank" rel="noopener"><div style="display: inline-block; margin: 10px; text-align: center;"><div><img src="/Files/rapscalliensmile.png" alt="rapscalliensmile" style="max-width: 150px; display: block; margin: 0px auto;"></div><div style="text-align: center;">Rapscallien smile sticker</div></div></a></div>
+
+
+
+
+
+
 # adding support for digital garden 
 
 

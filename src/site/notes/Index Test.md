@@ -7,6 +7,7 @@
 Hi! This is a placeholder right now, and will eventually be a rather snazzy digital garden style collection for my most current project.
 
 [[Image gallery v3 test\|Image gallery v3 test]]
+[[Blither Malarkey\|Blither Malarkey]]
 
 
 ![rappy dance party](/img/user/Files/rappydance.gif)

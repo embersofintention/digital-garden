@@ -15,6 +15,7 @@ This page exists to test things
 ---
 # Related Articles
 Also mentioned in...
+- [[Index Test\|Index Test]]
 
 { .block-language-dataview}
 
